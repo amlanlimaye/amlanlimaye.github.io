@@ -11,7 +11,7 @@ email: amlan.limaye@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Just some Data Science stuff I've been doing
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://amlanlimaye.github.io" # the base hostname & protocol for your site
+url: "https://amlanlimaye.github.io" # the base hostname & protocol for your site
 twitter_username: AmlanLimaye
 github_username:  amlanlimaye
 
