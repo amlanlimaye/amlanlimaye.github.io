@@ -19,3 +19,5 @@ github_username:  amlanlimaye
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-slate
+gems:
+  - jekyll-sitemap
