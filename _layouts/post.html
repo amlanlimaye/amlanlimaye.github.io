@@ -10,6 +10,12 @@ layout: default
 
   <div class="post-content" itemprop="articleBody">
     {{ content }}
+    
   </div>
+  <hr>
 
+			<!-- Post comments -->
+			<div class="notecomments">
+				{% include disqus.html %}	 
+			</div>
 </article>
