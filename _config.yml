@@ -17,5 +17,5 @@ github_username:  amlanlimaye
 
 # Build settings
 markdown: kramdown
-
+permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-slate
