@@ -24,7 +24,7 @@ LDA produces a ranked list of words deemed important for understanding a particu
 
 The first step is to set the number of topics, K. I experimented with a simple count vectorizer as well as a tfidf vectorizer (tfidf is a measure of how important a word is to a review). I settled on 10 topics using a count vectorizer. 
 
-<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/bmabey/pyLDAvis/files/ldavis.v1.0.0.css">
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/amlanlimaye/yelp-dataset-challenge/master/reports/lda_viz.css">
 
 
 <div id="ldavis_el27221405581700501281669734751"></div>
