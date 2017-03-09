@@ -60,19 +60,6 @@ if(typeof(LDAvis) !== "undefined"){
             })
          });
 }
-</script>
-
-<script src="http://gist-it.appspot.com/http://github.com/yelp-dataset-challenge/reports/figures/yelp_vegas_reviews_2016_LDA_viz.html"></script>
-
-<div id="ajaxContent"></div>
-<script>
-var Webflow = Webflow || [];
-Webflow.push(function() {
-  $.get('https://cdn.https://raw.githubusercontent.com/amlanlimaye/yelp-dataset-challenge/master/reports/figures/yelp_vegas_reviews_2016_LDA_viz.html', function(data) {
-    $('#ajaxContent').append(data);
-  });
-});
-</script>
 
 LDAvis tasks:
 
