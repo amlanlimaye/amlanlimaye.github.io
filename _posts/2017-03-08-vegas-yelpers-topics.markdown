@@ -26,7 +26,7 @@ The first step is to set the number of topics, K. I experimented with a simple c
 
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/bmabey/pyLDAvis/files/ldavis.v1.0.0.css">
 
-<div style="max-width: 1000px; margin: 0 auto;">
+<div style="max-width: 100px; margin: 0 auto;">
 
 <div id="ldavis_el27221405581700501281669734751"></div>
 <script type="text/javascript">
