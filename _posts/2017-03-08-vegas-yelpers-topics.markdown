@@ -69,6 +69,10 @@ I've assigned names to these topics based on my interpretation of the most relev
 |    9   	| "Superlatives"       	|
 |   10   	| "Ordering Pizza"     	|
 
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 The red bars on the right represent the word frequency within a topic and the blue bars represent the overall frequency of each word. 
 Based on your topic selection, the chart lists the top 30 words according to the frequency within this topic (the size of the topic circles is proportional to topic frequency). The topic numbers are also sorted by frequency; 1 is the most common topic (customer feelings), 2 (customer actions) is the 2nd most and so on.
