@@ -57,7 +57,7 @@ I've assigned names to these topics based on my interpretation of the most relev
 
 <br>
 
-| Topic  	|  Assigned Topic Name 	|
+| Topic  	|  Label 	|
 |:--------|:----------------------|
 |    1                          	| "Customer Feelings"  	|
 |    2   	| "Customer Actions"   	|
