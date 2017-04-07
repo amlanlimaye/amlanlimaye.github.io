@@ -72,6 +72,15 @@ I've assigned names to these topics based on my interpretation of the most relev
 
 <br>
 
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+***
+
 The red bars on the right represent the word frequency within a topic and the blue bars represent the overall frequency of each word. 
 Based on your topic selection, the chart lists the top 30 words according to the frequency within this topic (the size of the topic circles is proportional to topic frequency). The topic numbers are also sorted by frequency; 1 is the most common topic (customer feelings), 2 (customer actions) is the 2nd most and so on.
 
