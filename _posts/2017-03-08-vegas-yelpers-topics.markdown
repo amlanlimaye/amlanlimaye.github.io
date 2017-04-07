@@ -7,7 +7,7 @@ categories: LDA
 
 Yelp's one of my favorite apps; I use it to get a quick idea about what's good (restaurants, doctors, haircut salons etc.). Last month, I played around a bit with a dataset of 400,000 <a href="https://www.yelp.com/dataset_challenge">Las Vegas business Yelp reviews</a> to practice <a href="https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation">Latent Dirichlet Allocation (LDA)</a>, a <a href="https://en.wikipedia.org/wiki/Topic_model">Topic Modeling</a> technique. 
 
-Briefly, LDA (Latent Dirichlet Allocation) is a type of topic model that posits that each document (or in this case, review) is a mixture of a small number of topics and that each word's creation is attributable to one of the document's topics. I made an interactive visualization (github: https://github.com/amlanlimaye/yelp-dataset-challenge) using <a href="https://github.com/bmabey/pyLDAvis">pyLDAvis</a> (see below) that produces a ranked list of words deemed important for understanding a particular topic.
+Briefly, LDA (Latent Dirichlet Allocation) is a type of topic model that posits that each document (or in this case, review) is a mixture of a small number of topics and that each word's creation is attributable to one of the document's topics. I made an interactive visualization (<a href="https://github.com/amlanlimaye/yelp-dataset-challenge">github</a>) using <a href="https://github.com/bmabey/pyLDAvis">pyLDAvis</a> (see below) that produces a ranked list of words deemed important for understanding a particular topic.
 
 The first step was to set the number of topics, k. I experimented with a simple count vectorizer as well as a tfidf vectorizer (tfidf is a measure of how important a word is to a review) and got best results with k=10 topics using a count vectorizer; play around with it to get a feel of the topics being talked about in Las Vegas Yelp Reviews!
 
@@ -55,6 +55,8 @@ if(typeof(LDAvis) !== "undefined"){
 
 I've assigned names to these topics based on my interpretation of the most relevant terms under each topic:
 
+<br>
+
 | Topic  	|  Assigned Topic Name 	|
 |---------|-----------------------|
 |    1   	| "Customer Feelings"  	|
@@ -67,6 +69,8 @@ I've assigned names to these topics based on my interpretation of the most relev
 |    8   	| "Chicken Related"    	|
 |    9   	| "Superlatives"       	|
 |   10   	| "Ordering Pizza"     	|
+
+<br>
 
 The red bars on the right represent the word frequency within a topic and the blue bars represent the overall frequency of each word. 
 Based on your topic selection, the chart lists the top 30 words according to the frequency within this topic (the size of the topic circles is proportional to topic frequency). The topic numbers are also sorted by frequency; 1 is the most common topic (customer feelings), 2 (customer actions) is the 2nd most and so on.
