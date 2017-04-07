@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "What are Yelpers talking about in Las Vegas?"
 date:   2017-03-08 20:00:00 -0800
 categories: LDA
@@ -56,7 +56,7 @@ if(typeof(LDAvis) !== "undefined"){
 I've assigned names to these topics based on my interpretation of the most relevant terms under each topic:
 
 
-| Topic  	|  Label_ 	|
+| Topic  	|  Label 	|
 |:--------|:----------------------|
 |    1                          	| "Customer Feelings"  	|
 |    2   	| "Customer Actions"   	|
@@ -68,6 +68,7 @@ I've assigned names to these topics based on my interpretation of the most relev
 |    8   	| "Chicken Related"    	|
 |    9   	| "Superlatives"       	|
 |   10   	| "Ordering Pizza"     	|
+
 
 
 The red bars on the right represent the word frequency within a topic and the blue bars represent the overall frequency of each word. 
