@@ -54,10 +54,10 @@ if(typeof(LDAvis) !== "undefined"){
 </div>
 
 I've assigned names to these topics based on my interpretation of the most relevant terms under each topic:
-
+***
 
 | Topic  	|  Label 	|
-|:--------|:----------------------|
+|:-------:|:---------------------:|
 |    1                          	| "Customer Feelings"  	|
 |    2   	| "Customer Actions"   	|
 |    3   	| "Restaurant Related" 	|
