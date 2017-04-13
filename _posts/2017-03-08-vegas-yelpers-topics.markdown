@@ -79,6 +79,4 @@ Words like 'like' and 'people' appear near the top of the list for multiple topi
 
 Finally, by hovering over a particular word, you can see it's spread among different topics, which might give you an insight into how that word is used in different contexts. For example, the word service in topic 5 is spread across topics 1 (customer feelings about service), 3 (restaurant service) and 5 (Las Vegas related service). The distance between the topics is an approximation of the semantic relationship between these two topics.
 
-I'll be working on generating topic probabilities for each review next so stay tuned for that!
-
 Check out my most recent posts <a href="https://amlanlimaye.github.io/">here</a> and all my posts <a href="https://amlanlimaye.github.io/blog/">here<a/>.
