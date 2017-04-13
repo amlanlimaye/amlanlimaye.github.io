@@ -5,4 +5,4 @@ date:   2017-04-13 12:20:00 -0800
 categories: Tennis
 ---
 
-<img src="https://github.com/amlanlimaye/amlanlimaye.github.io/blob/master/assets/Capture.PNG">
+<img src="http://i.imgur.com/j2vodjm.png">
