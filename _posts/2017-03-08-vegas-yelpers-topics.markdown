@@ -5,7 +5,7 @@ date:   2017-03-08 20:00:00 -0800
 categories: LDA
 ---
 
-<h1>What are Yelpers talking about in Las Vegas?</h1>
+<h2>What are Yelpers talking about in Las Vegas?</h2>
 
 Yelp's one of my favorite apps; I use it to get a quick idea about what's good (restaurants, doctors, haircut salons etc.). Last month, I played around a bit with a dataset of 400,000 <a href="https://www.yelp.com/dataset_challenge">Las Vegas business Yelp reviews</a> to practice <a href="https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation">Latent Dirichlet Allocation (LDA)</a>, a <a href="https://en.wikipedia.org/wiki/Topic_model">Topic Modeling</a> technique. 
 
