@@ -7,7 +7,7 @@ categories: Tennis
 
 ADD MORE CONCLUSIONS!!!
 
-Examining Favorites and Underdogs on the WTA Tour
+<h2>Examining Favorites and Underdogs on the WTA Tour</h2>
 
 <img src="http://i.imgur.com/LLuuYjK.jpg">
 
@@ -82,10 +82,3 @@ I'm talking, of course, about the frankly ridiculous, Mirjana Lucic-Baroni, who 
 <img src="http://i.imgur.com/0eCn0G7.png">
 
 No one comes close to Paula Ormachea in this regard. Paula lost 3/12 matches as favorite and folded like a cheap suit when given underdog status, winning only 1/18 games.
-
-- Which players are top upsetters in last 3 years? Max number of upsets, percentage of underdog matches won
-- Which favorites lose most often? Max losses, percentage of favorite matches lost
-- Which players are "consistent" or easiest to predict? Max number of games that went as expected, percentage of games that went as expected
-- Which players caused huge upsets? Which players suffered huge upsets? Which individual matches were biggest upsets?
-
-PUBLIC FADE SCORE!!!
