@@ -7,6 +7,8 @@ categories: Tennis
 
 ADD MORE CONCLUSIONS!!!
 
+<div style="text-align: justify">
+
 <center><h2>Examining Favorites and Underdogs on the WTA Tour</h2></center>
 
 <center><img src="http://i.imgur.com/LLuuYjK.jpg"></center>
@@ -80,6 +82,8 @@ While "consistency" measures how close a player's win-loss record is to what's e
 I'm talking, of course, about the frankly ridiculous, Mirjana Lucic-Baroni, who lost 11/15 matches as favorite with a volatility score second only to perennially-involved-in-a-comeback Petra Cetkovska. Kvitova's got a bit of a hit or miss game as well; no surprise to see her on the list but Radwanska and Halep can't be happy about being on there. One might have expected to see those two among the least volatile but they really seem to be struggling with the power-based game that's dominating women's tennis off late.
 
 <img src="http://i.imgur.com/0eCn0G7.png">
+
+</div>
 
 No one comes close to Paula Ormachea in this regard. Paula lost 3/12 matches as favorite and folded like a cheap suit when given underdog status, winning only 1/18 games.
 
