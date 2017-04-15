@@ -9,7 +9,9 @@ ADD MORE CONCLUSIONS!!!
 
 <h2>Examining Favorites and Underdogs on the WTA Tour</h2>
 
-Off late, Women's Tennis has received a lot of flak for being "inconsistent"; a notion bolstered by what's happened in the last month or so. Russia's Elena Vesnina, who was 125/1 to win at Indian Wells (a Premier Mandatory event that's perhaps regarded as the biggest event outside of the 4 Grand Slams) before the tournament began, took home the trophy by beating compatriot Svetlana Kuznetsova 6-7, 7-5, 6-4. Vesnina is 0-2 since Indian Wells, having lost to Wildcard and World No. 594, Ajla Tomljanovic at Miami, as well as Qualifier and World No. 282, the delightfully named, Fanny Stollar.
+img src="http://i.imgur.com/LLuuYjK.jpg">
+
+Off late, Women's Tennis has received a lot of flak for being "inconsistent"; a notion bolstered by what's happened in the last month or so. Russia's Elena Vesnina, who was 125/1 to win at Indian Wells (a Premier Mandatory event that's perhaps regarded as the biggest event outside of the 4 Grand Slams) before the tournament began, took home the trophy by beating compatriot Svetlana Kuznetsova 6-7, 7-5, 6-4. Vesnina is 0-2 since Indian Wells, having lost to Wildcard and World No. 594, Ajla Tomljanovic at Miami, as well as Qualifier and World No. 282, the delightfully named, Fanny Stollar. World No.1 Angelique Kerber's recent struggles haven't helped either; Kerber is 1-8 vs top 35 opponents this year, with her lone win coming against World No. 25, Carla Suarez Navarro.
 
 Although it may not appear so, "consistency" in Women's Tennis isn't too different from that in the Men's game as <a href="https://www.sciencedaily.com/releases/2015/08/150809170256.htm">Stephanie Kovalchik explains</a>; evidence of inconsistency in women's play is likely attributable to match format (e.g., best of three or five sets), not gender.
 
@@ -69,9 +71,9 @@ Li Na, Sharapova and Azarenka are all incredibly consistent (elo, which is widel
 
 <img src="http://i.imgur.com/9zyO8tq.png">
 
-Speaking of Pliskova (Karolina), her development into a solid servebot++ type player might be causing bettors to overestimate her twin sister, Kristyna, who somehow lost 70% of her matches as favorite (or they're just straight up confusing Kristyna with her sister :P). Cirstea, Watson, Bertens, Ostapenko all seem to be pretty coin-flippy.
+Speaking of Pliskova (Karolina), her development into a solid servebot++ type player might be causing bettors to overestimate her twin sister, Kristyna, who somehow lost 70% of her matches as favorite (or they're just straight up confusing Kristyna with her sister). Cirstea, Watson, Bertens, Ostapenko all seem to be pretty coin-flippy.
 
-While "consistency" measures how close a player's win-loss record is to what's expected, "volatility" is a slightly different concept, it has more to do with upset size. On their day, volatile players take down the biggest of favorites but they're also prone to losses against players who are not expected to threaten them at all. A couple of names should've popped into your head after reading that description; let's see if they've made it to the "most volatile" list () :P
+While "consistency" measures how close a player's win-loss record is to what's expected, "volatility" is a slightly different concept, it has more to do with upset size. On their day, volatile players take down the biggest of favorites but they're also prone to losses against players who are not expected to threaten them at all. A couple of names should've popped into your head after reading that description; let's see if they've made it to the "most volatile" list.
 
 <img src="http://i.imgur.com/8AGuF3Q.png">
 
