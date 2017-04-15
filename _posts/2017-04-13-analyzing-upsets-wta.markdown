@@ -59,7 +59,7 @@ What about on the other side of the spectrum: games featuring a big favorite? I'
 
 A bit of redemption for Wozniacki as she heads this list, winning over 90% of games in which she's considered a big favorite. Other former World No.1's, often labelled "consistent" by commentators and journalists, Kerber, Venus, Azarenka, Ivanovic and current No.1, Serena, also feature. But what do they really mean when they say "consistent"? Most of the time they're referring to the players being consistently good; producing solid results over a long period of time. I'm interested in a more textbook definition. A truly consistent player would be one who wins all the matches they're expected to win and loses the ones they're expected to lose; kills it when they're a big favorite and folds like a cheap suit when they're a big dog. 
 
-<h3>Consistency</h3>
+<b><h3>Consistency</h3></b>
 
 I've defined "consistency score" as the sum of matches won as favorite and matches lost as underdog divided by the total number of matches played. The most consistent player on tour (min 20 matches played) is... Romania's ANA BOGDAN!!! Bogdan won 5/5 of her matches as favorite and lost 15/17 matches as underdog to edge ahead of Serena (144/160 matches won as favorite, 0 matches played as underdog).
 
