@@ -14,7 +14,7 @@ Briefly, LDA (Latent Dirichlet Allocation) is a type of topic model that posits 
 The first step was to set the number of topics, k. I experimented with a simple count vectorizer as well as a tfidf vectorizer (tfidf is a measure of how important a word is to a review) and got best results with k=10 topics using a count vectorizer; play around with it to get a feel of the topics being talked about in Las Vegas Yelp Reviews!
 
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/bmabey/pyLDAvis/files/ldavis.v1.0.0.css">
-
+<center>
 <div>
 
 <div id="ldavis_el27221405581700501281669734751"></div>
@@ -54,7 +54,7 @@ if(typeof(LDAvis) !== "undefined"){
 </script>
 
 </div>
-
+</center>
 I've assigned names to these topics based on my interpretation of the most relevant terms under each topic:
 
 
