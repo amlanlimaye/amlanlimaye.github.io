@@ -55,7 +55,7 @@ Some pretty damning numbers for Stosur, Wozniacki and Radwanska, 3 wannabe top p
 
 What about on the other side of the spectrum: games featuring a big favorite? I'm considering all games with an implied win probability difference of 50% or more to be in this category. Let's have a look at which players performed the best when big favorites:
 
-<img src="http://i.imgur.com/TA3cmzp.png">
+<img src="http://i.imgur.com/ViVRvNw.png">
 
 A bit of redemption for Wozniacki as she heads this list, winning over 90% of games in which she's considered a big favorite. Other former World No.1's, often labelled "consistent" by commentators and journalists, Kerber, Venus, Azarenka, Ivanovic and current No.1, Serena, also feature. But what do they really mean when they say "consistent"? Most of the time they're referring to the players being consistently good; producing solid results over a long period of time. I'm interested in a more textbook definition. A truly consistent player would be one who wins all the matches they're expected to win and loses the ones they're expected to lose; kills it when they're a big favorite and folds like a cheap suit when they're a big dog. 
 
