@@ -78,7 +78,3 @@ Based on your topic selection, the chart lists the top 30 words according to the
 Words like 'like' and 'people' appear near the top of the list for multiple topics, which is where our parameter lambda comes in. You can quickly re-rank the words that are more specific to this particular topic and aren't just common words across multiple topics. By reducing lambda, I'm giving more weight to the ratio of the red bar to the blue bar or the ratio of the frequency given this topic to the overall word frequency. This makes it easier to see that, say, topic 1 is talking mainly about customer feelings. Topic 3 seems to be restaurant related, with words like food, service, eat at the top. Topic 4 contains a lot of compliments near the top; good, nice, pretty, super, fresh.
 
 Finally, by hovering over a particular word, you can see it's spread among different topics, which might give you an insight into how that word is used in different contexts. For example, the word service in topic 5 is spread across topics 1 (customer feelings about service), 3 (restaurant service) and 5 (Las Vegas related service). The distance between the topics is an approximation of the semantic relationship between these two topics.
-
-Check out my most recent posts <a href="https://amlanlimaye.github.io/">here</a> and all my posts <a href="https://amlanlimaye.github.io/blog/">here<a/>.
-
-</div>
