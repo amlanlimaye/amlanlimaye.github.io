@@ -5,8 +5,6 @@ date:   2017-03-08 20:00:00 -0800
 categories: LDA
 ---
 
-<div style="text-align: right">
-
 <h2>What are Yelpers talking about in Las Vegas?</h2>
 
 Yelp's one of my favorite apps; I use it to get a quick idea about what's good (restaurants, doctors, haircut salons etc.). Last month, I played around a bit with a dataset of 400,000 <a href="https://www.yelp.com/dataset_challenge">Las Vegas business Yelp reviews</a> to practice <a href="https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation">Latent Dirichlet Allocation (LDA)</a>, a <a href="https://en.wikipedia.org/wiki/Topic_model">Topic Modeling</a> technique. 
@@ -16,7 +14,7 @@ Briefly, LDA (Latent Dirichlet Allocation) is a type of topic model that posits 
 The first step was to set the number of topics, k. I experimented with a simple count vectorizer as well as a tfidf vectorizer (tfidf is a measure of how important a word is to a review) and got best results with k=10 topics using a count vectorizer; play around with it to get a feel of the topics being talked about in Las Vegas Yelp Reviews!
 
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/bmabey/pyLDAvis/files/ldavis.v1.0.0.css">
-<center>
+
 <div>
 
 <div id="ldavis_el27221405581700501281669734751"></div>
@@ -56,7 +54,7 @@ if(typeof(LDAvis) !== "undefined"){
 </script>
 
 </div>
-</center>
+
 I've assigned names to these topics based on my interpretation of the most relevant terms under each topic:
 
 
