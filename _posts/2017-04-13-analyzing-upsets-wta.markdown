@@ -5,7 +5,7 @@ date:   2017-04-13 12:20:00 -0800
 categories: Tennis
 ---
 
-<h1>Examining Favorites and Underdogs on the WTA Tour</h1>
+<h1>Examining Favorites & Underdogs on the WTA Tour</h1>
 
 <img src="http://i.imgur.com/LLuuYjK.jpg">
 
