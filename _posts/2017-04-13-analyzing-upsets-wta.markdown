@@ -7,9 +7,9 @@ categories: Tennis
 
 ADD MORE CONCLUSIONS!!!
 
-<h2>Examining Favorites and Underdogs on the WTA Tour</h2>
+<center><h2>Examining Favorites and Underdogs on the WTA Tour</h2></center>
 
-<img src="http://i.imgur.com/LLuuYjK.jpg">
+<center><img src="http://i.imgur.com/LLuuYjK.jpg"></center>
 
 Off late, Women's Tennis has received a lot of flak for being "inconsistent"; a notion bolstered by what's happened in the last month or so. Russia's Elena Vesnina, who was 125/1 to win at Indian Wells (a Premier Mandatory event that's perhaps regarded as the biggest event outside of the 4 Grand Slams) before the tournament began, took home the trophy by beating compatriot Svetlana Kuznetsova 6-7, 7-5, 6-4. Vesnina is 0-2 since Indian Wells, having lost to Wildcard and World No. 594, Ajla Tomljanovic at Miami, as well as Qualifier and World No. 282, the delightfully named, Fanny Stollar. World No.1 Angelique Kerber's recent struggles haven't helped either; Kerber is 1-8 vs top 35 opponents this year, with her lone win coming against World No. 25, Carla Suarez Navarro.
 
