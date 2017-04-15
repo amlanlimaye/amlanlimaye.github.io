@@ -5,6 +5,8 @@ date:   2017-03-08 20:00:00 -0800
 categories: LDA
 ---
 
+<div style="text-align: right">
+
 <h2>What are Yelpers talking about in Las Vegas?</h2>
 
 Yelp's one of my favorite apps; I use it to get a quick idea about what's good (restaurants, doctors, haircut salons etc.). Last month, I played around a bit with a dataset of 400,000 <a href="https://www.yelp.com/dataset_challenge">Las Vegas business Yelp reviews</a> to practice <a href="https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation">Latent Dirichlet Allocation (LDA)</a>, a <a href="https://en.wikipedia.org/wiki/Topic_model">Topic Modeling</a> technique. 
@@ -80,3 +82,5 @@ Words like 'like' and 'people' appear near the top of the list for multiple topi
 Finally, by hovering over a particular word, you can see it's spread among different topics, which might give you an insight into how that word is used in different contexts. For example, the word service in topic 5 is spread across topics 1 (customer feelings about service), 3 (restaurant service) and 5 (Las Vegas related service). The distance between the topics is an approximation of the semantic relationship between these two topics.
 
 Check out my most recent posts <a href="https://amlanlimaye.github.io/">here</a> and all my posts <a href="https://amlanlimaye.github.io/blog/">here<a/>.
+
+</div>
